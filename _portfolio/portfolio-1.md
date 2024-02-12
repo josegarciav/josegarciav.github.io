@@ -9,7 +9,7 @@ This project was part of a global hackathon. The project consisted on understand
 - The estimated volume and net revenue resulting from the investments planned by the revenue management team.
 - The optimal investments recommended by an efficient budget allocation algorithm, across various promotion categories and for each SKU. The goal here is to maximize the net revenue increase while minimizing the total investments required.
 
-We were given a set of constraint datasets that pertained to the following: 
+We were given a set of constraint datasets that pertained to the following:
 
 * Volume variation constraints per predicted horizon
 * Maximum discount to be given per category

@@ -4,7 +4,7 @@ excerpt: "Predict the frequency of vehicle accidents over time. <br/><img src='/
 collection: portfolio
 ---
 
-In this project, we were tasked with determining which factors external to the client's characteristics affect the frequency of car accidents. This was a mock project for an insurance company.
+In this project, we were tasked with determining which factors external to the client's characteristics affect the frequency of car accidents. This was a mock project for an insurance company, during a data science competition.
 
 ## EDA
 

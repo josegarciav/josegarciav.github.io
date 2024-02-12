@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* M.S. in Applied Mathematics, Santo Domingo Institute of Technology, 2023
+* M.S. in Applied Mathematics, Santo Domingo Institute of Technology, 2022
 * B.S. in International Business & Finance, Utah State University, 2017
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 
@@ -20,34 +20,47 @@ Work experience
 * 2023-Present: Data Scientist
   * [AB InBev](https://www.ab-inbev.com/)
   * Duties included:
-    * AB InBev is the largest beer brewer in the world. As a Data Scientist in the Middle Americas Zone (MAZ) Team, I work on the integration of a machine learning model for promotion optimization tailored to LATAM countries.
-    * Use a machine learning approach to model product demand with a price optimization mindset. That is, search for optimal product discounts from convex demand curve splines aimed at maximizing net revenue, considering pricing strategy constraints.
-    * I work on end-to-end deployments of Python data pipelines consumed by production software applications.
-    * Leveraging Azure, Git, CI/CD, and DevOps practices, I've implemented advanced predictive analytics tools to enhance the beer demand prediction module, resulting in a 3% MAPE reduction. A/B testing techniques are employed to measure the model's impact in a standardized manner.
+    * Design a data pipeline that takes different kinds of promotional strategies into client interface Heroku API, connecting machine learning model outputs with an RCT module, making the process of designing and releasing a promotion 3x faster.
+    * Enhance the beer demand prediction module for discount optimization utilizing XGBoost, implementing a range of autoregressive variables that led to a 3% MAPE reduction, thereby optimizing forecasting accuracy.
+    * I built a pipeline that measures the impact of A/B tests from model recommendations, saving the company millions by allowing it to allocate its discount budget more efficiently.
+    * Consolidated and conformed growth metrics from historical promotional strategies into a single table, making the process of identifying trends from the A/B testing measures of volume uplift 5x faster.
+
   * Supervisor: Carlos Montero
 
-* 2022-2023: Data Scientist
+* 2022-2023: Lead Data Scientist
   * [Santa Cruz Bank](https://bsc.com.do/home)
   * Duties included:
-    * Orchestrated a product recommendation model using collaborative filtering, ensemble learning, and continuous monitoring. I mainly worked on placing this model into production and aligning outputs into the CRM (Salesforce). I also developed classification models for bank-wide customer segmentation and automated weekly report distribution, contributing to a 30% increase in productivity.
+    * Optimized the product recommendation, machine learning feature set generation pipeline from having < 20 to > 50 variables, while also integrating insurance products into a collaborative filtering, ranking, and ensemble learning approach.
+    * Built data pipeline for model monitoring metrics which included precision, recall, F1 score, coverage, and others.
+    * Designed 2 additional levels to the bank customer segmentation model, which included 1) a digital channel use clustering approach and 2) a psychographic segmentation with the data generation pipeline from commerce categories.
+    * I built a weekly data pipeline job that sent reports regarding client accounts in different localities to respective managers, boosting productivity 3x by eliminating manual data wrangling tasks prone to human mistakes.
+    * Developed Natural Language Processing (NLP) models, including sentiment analysis, n-grams, and entity classifications, to analyze customer interaction data from the CRM system.
+
+
   * Supervisor: Persio Martinez
 
-* 2019-2022: Data Specialist
+* 2019-2022: Data Scientist
   * [Dominican Tax Administration](https://dgii.gov.do/Paginas/default.aspx)
   * Duties included:
-    * Worked for one of the main risk departments, responsible of assigning risk levels to taxpayers that were to be externally audited. Created risk classification levels for taxpayers using predictive modeling techniques in R. This initiative included models such as linear regression, anomaly detection models, decision trees, STAN probabilistic models (MCMC), and clustering. Additionally, in the Data Governance Project, I reduced SQL query creation times by 20% by implementing an interactive application in Shiny (R language) for metadata sharing among risk management teams.
+    * Helped build the machine learning feedback system that allowed external auditors to label taxpayers as risky or not risky.
+    * Automatized the mitigation treatment data pipelines, matching risk estimations to potential preventive and corrective actions, turning the decision-making process of identifying and prioritizing tax evasive behavior 4x faster.
+    * Created models such as linear regression, decision trees, STAN probabilistic models (MCMC), and clustering.
+    * Built Data Warehouse inventory, eCatalog – a Shiny (R) solution that is a map of all the data infrastructure used for risk estimations (metadata, data dictionaries, data lineage), making the process of identifying data sources 5x faster.
+
   * Supervisor: Marhiel Diaz
 
 
 Skills
 ======
 * Git
-* R
 * Python
+* Azure Databricks, Azure Machine Learning Studio, Azure DevOps
+* Propensity scoring, IPW, A/B/n testing, synthetic controls
+* Spark
+* R
 * MLflow
-* Azure Databricks
-* Jax, Ray, Optuna, CI/CD, Pytest
-* Tensorflow, Pytorch
+* Azure Databricks, Azure Machine Learning Studio, Azure DevOps, CI/CD
+* Jax, Ray, Optuna, Pytest, Tsfresh, Tensorflow, Pytorch, Orbit
 
 
 Leadership
