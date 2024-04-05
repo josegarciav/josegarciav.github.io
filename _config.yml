@@ -83,7 +83,7 @@ author:
   name             : "Jose Garcia Ventura"
   avatar           : "profile.jpg"
   bio              : "Data Scientist"
-  # location         : "Dominican Republic"
+  # location         : ""
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   # googlescholar    : "http://yourfullgooglescholarurl.com"
@@ -97,6 +97,7 @@ author:
   facebook         :
   foursquare       :
   github           : "josegarciav"
+  # medium           : "https://medium.com/@jgarciaventura"
   google_plus      :
   keybase          :
   instagram        :
@@ -105,11 +106,11 @@ author:
   linkedin         : "jose-garcia-ventura"
   # orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
-  # soundcloud       : "cndler23"
+  # soundcloud       : ""
   # stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  # twitter          : "cndler23"
+  # twitter          : ""
   vine             :
   weibo            :
   xing             :

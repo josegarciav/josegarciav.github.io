@@ -18,11 +18,11 @@ I'm a Data Scientist with a Master of Science in Applied Mathematics with over 5
 I transitioned from a business background into the world data science, after which I completed a master's degree in Applied Mathematics. During my master's program, I conducted research on Weiner processes, Hamiltonian Systems, Manifold Learning, optimization, and more. For my thesis, I focused on the applications of advanced optimization algorithms on deep neural networks 👨🏻‍💻.
 
 ## More about me 🫡
-🏂🏻 Activities I enjoy include rock climbing, hiking, surfing, and deep diving in the ocean. I also have a keen interest in movies.
+🏂🏻 Activities I enjoy include rock climbing, camping, hiking, and surfing.
 
 <!-- ![Utah Walks](/images/utah-walks.jpg) -->
 <!-- ![Grand Canyon](/images/grand_canyon.png) -->
-![Arches National Park](/images/archesnationalpark.JPG)
+<!-- ![Arches National Park](/images/archesnationalpark.JPG) -->
 
 Connect with me 🌐
 ------

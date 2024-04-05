@@ -11,15 +11,18 @@ redirect_from:
 
 Education
 ======
+<!-- * Ph.D in Mathematics and Computing, University of the Basque Country, 2026 (expected) -->
+<!-- * M.S. in Modeling & Mathematical Research, Statistics and Computing, University of the Basque Country, 2024 -->
 * M.S. in Applied Mathematics, Santo Domingo Institute of Technology, 2022
 * B.S. in International Business & Finance, Utah State University, 2017
-<!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
+* B.E. in Civil Engineering (first year), Santo Domingo Institute of Technology, 2013
+
 
 Work experience
 ======
-* 2023-Present: Data Scientist
+* 2023-Present: Data Scientist, Promo
   * [AB InBev](https://www.ab-inbev.com/)
-  * Duties included:
+  * Duties include:
     * Design a data pipeline that takes different kinds of promotional strategies into client interface Heroku API, connecting machine learning model outputs with an RCT module, making the process of designing and releasing a promotion 3x faster.
     * Enhance the beer demand prediction module for discount optimization utilizing XGBoost, implementing a range of autoregressive variables that led to a 3% MAPE reduction, thereby optimizing forecasting accuracy.
     * I built a pipeline that measures the impact of A/B tests from model recommendations, saving the company millions by allowing it to allocate its discount budget more efficiently.
@@ -36,7 +39,6 @@ Work experience
     * I built a weekly data pipeline job that sent reports regarding client accounts in different localities to respective managers, boosting productivity 3x by eliminating manual data wrangling tasks prone to human mistakes.
     * Developed Natural Language Processing (NLP) models, including sentiment analysis, n-grams, and entity classifications, to analyze customer interaction data from the CRM system.
 
-
   * Supervisor: Persio Martinez
 
 * 2019-2022: Data Scientist
@@ -44,7 +46,7 @@ Work experience
   * Duties included:
     * Helped build the machine learning feedback system that allowed external auditors to label taxpayers as risky or not risky.
     * Automatized the mitigation treatment data pipelines, matching risk estimations to potential preventive and corrective actions, turning the decision-making process of identifying and prioritizing tax evasive behavior 4x faster.
-    * Created models such as linear regression, decision trees, STAN probabilistic models (MCMC), and clustering.
+    * Created models such as linear regression, decision trees, and clustering.
     * Built Data Warehouse inventory, eCatalog – a Shiny (R) solution that is a map of all the data infrastructure used for risk estimations (metadata, data dictionaries, data lineage), making the process of identifying data sources 5x faster.
 
   * Supervisor: Marhiel Diaz
@@ -53,14 +55,13 @@ Work experience
 Skills
 ======
 * Git
-* Python
-* Azure Databricks, Azure Machine Learning Studio, Azure DevOps
-* Propensity scoring, IPW, A/B/n testing, synthetic controls
+* Python: Proficient with libraries such as NetworkX, bokeh, pandas, numpy, math, sklearn, statsmodels, cvxpy, PuLP, Tensorflow, Pytorch, and frameworks like Jax, Pytest.
+* R: Skilled in using libraries like Shiny, ggplot2, plotly, data.table, wordcloud, tidyverse, readxl, rstan, stats, forecast, tsibble, lubridate, knitr, rmarkdown, kableExtra, networkD3, etc., and Posit Cloud (formerly RStudio Cloud).
+* Data Science Techniques: Propensity scoring, Inverse Probability Weighting (IPW), A/B/n testing, synthetic controls.
 * Spark
-* R
 * MLflow
-* Azure Databricks, Azure Machine Learning Studio, Azure DevOps, CI/CD
-* Jax, Ray, Optuna, Pytest, Tsfresh, Tensorflow, Pytorch, Orbit
+* Microsoft Azure: Proficient with Azure Databricks, Azure Machine Learning Studio, Azure DevOps, and CI/CD practices.
+* Additional Tools: Optuna, Tsfresh, Orbit.
 
 
 Leadership

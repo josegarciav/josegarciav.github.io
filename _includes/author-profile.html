@@ -106,6 +106,11 @@
       {% if author.googlescholar %}
         <li><a href="{{ author.googlescholar }}"><i class="fas fa-fw fa-graduation-cap"></i> Google Scholar</a></li>
       {% endif %}
+  
+      {% if author.medium %}
+        <li><a href="{{ author.medium }}"><i class="fab fa-medium" aria-hidden="true"></i> Medium</a></li>
+      {% endif %}
+
       {% if author.pubmed %}
         <li><a href="{{ author.pubmed }}"><i class="ai ai-pubmed-square ai-fw"></i> PubMed</a></li>
       {% endif %}
