@@ -23,31 +23,33 @@ Work experience
 * 2023-Present: Data Scientist, Promo
   * [AB InBev](https://www.ab-inbev.com/)
   * Duties include:
-    * Design a data pipeline that takes different kinds of promotional strategies into client interface Heroku API, connecting machine learning model outputs with an RCT module, making the process of designing and releasing a promotion 3x faster.
-    * Enhance the beer demand prediction module for discount optimization utilizing XGBoost, implementing a range of autoregressive variables that led to a 3% MAPE reduction, thereby optimizing forecasting accuracy.
-    * I built a pipeline that measures the impact of A/B tests from model recommendations, saving the company millions by allowing it to allocate its discount budget more efficiently.
-    * Consolidated and conformed growth metrics from historical promotional strategies into a single table, making the process of identifying trends from the A/B testing measures of volume uplift 5x faster.
+    * Designed a data pipeline to streamline promotional strategy deployment, integrating machine learning models with the client interface Heroku API, reducing promotion design and release time by 3x.
+    * Improved beer demand prediction accuracy for discount optimization using XGBoost, incorporating autoregressive variables, leading to a 3% reduction in MAPE.
+    * Consolidated growth metrics from historical promotions into a single Databricks table, accelerating trend identification from A/B testing volume uplift measures by 5x.
+    * Designed classes to transform model outputs into combo formats for various LATAM countries.
 
   * Supervisor: Carlos Montero
 
 * 2022-2023: Lead Data Scientist
   * [Santa Cruz Bank](https://bsc.com.do/home)
   * Duties included:
-    * Optimized the product recommendation, machine learning feature set generation pipeline from having < 20 to > 50 variables, while also integrating insurance products into a collaborative filtering, ranking, and ensemble learning approach.
-    * Built data pipeline for model monitoring metrics which included precision, recall, F1 score, coverage, and others.
-    * Designed 2 additional levels to the bank customer segmentation model, which included 1) a digital channel use clustering approach and 2) a psychographic segmentation with the data generation pipeline from commerce categories.
-    * I built a weekly data pipeline job that sent reports regarding client accounts in different localities to respective managers, boosting productivity 3x by eliminating manual data wrangling tasks prone to human mistakes.
-    * Developed Natural Language Processing (NLP) models, including sentiment analysis, n-grams, and entity classifications, to analyze customer interaction data from the CRM system.
+    * Optimized the product recommendation feature set generation pipeline, increasing the number of variables from < 20 to > 50. Integrated insurance products into collaborative filtering, ranking, and ensemble learning approach.
+    * Implemented a data pipeline for monitoring model performance metrics, including precision, recall, F1 score, and coverage.
+    * Enhanced the bank customer segmentation model with two additional levels:
+      1. Introduced a clustering approach based on digital channel use.
+      2. Incorporated psychographic segmentation using data from commerce categories.
+    * Developed a weekly data pipeline job to automate the generation and distribution of client account reports to respective managers. This boosted productivity by 3x, eliminating manual data wrangling tasks and reducing human errors.
+    * Utilized Natural Language Processing (NLP) models for sentiment analysis, n-grams, and entity classifications to analyze customer interaction data from the SalesForce CRM system.
 
   * Supervisor: Persio Martinez
 
 * 2019-2022: Data Scientist
   * [Dominican Tax Administration](https://dgii.gov.do/Paginas/default.aspx)
   * Duties included:
-    * Helped build the machine learning feedback system that allowed external auditors to label taxpayers as risky or not risky.
-    * Automatized the mitigation treatment data pipelines, matching risk estimations to potential preventive and corrective actions, turning the decision-making process of identifying and prioritizing tax evasive behavior 4x faster.
-    * Created models such as linear regression, decision trees, and clustering.
-    * Built Data Warehouse inventory, eCatalog – a Shiny (R) solution that is a map of all the data infrastructure used for risk estimations (metadata, data dictionaries, data lineage), making the process of identifying data sources 5x faster.
+    * Collaborated in developing a machine learning feedback system for external auditors to classify taxpayers as risky or not risky.
+    * Automated mitigation treatment data pipelines, linking risk estimates to potential preventive and corrective actions. This accelerated the decision-making process for identifying and prioritizing tax evasion by 4x.
+    * Developed various models including linear regression, decision trees, PCA, and clustering.
+    * Created the Data Warehouse inventory eCatalog, a Shiny (R) solution mapping all data infrastructure used for risk estimations (metadata, data dictionaries, data lineage). This streamlined the process of identifying data sources by 5x.
 
   * Supervisor: Marhiel Diaz
 
@@ -55,9 +57,9 @@ Work experience
 Skills
 ======
 * Git
-* Python: Proficient with libraries such as NetworkX, bokeh, pandas, numpy, math, sklearn, statsmodels, cvxpy, PuLP, Tensorflow, Pytorch, and frameworks like Jax, Pytest.
+* Python: Proficient with libraries such as NetworkX, bokeh, pandas, numpy, math, sklearn, statsmodels, cvxpy, PuLP, Tensorflow, Pytorch, and frameworks like Jax and Pytest.
 * R: Skilled in using libraries like Shiny, ggplot2, plotly, data.table, wordcloud, tidyverse, readxl, rstan, stats, forecast, tsibble, lubridate, knitr, rmarkdown, kableExtra, networkD3, etc., and Posit Cloud (formerly RStudio Cloud).
-* Data Science Techniques: Propensity scoring, Inverse Probability Weighting (IPW), A/B/n testing, synthetic controls.
+* Data Science Techniques: Propensity scoring, Inverse Probability Weighting (IPW), A/B/n testing, synthetic controls, regularization, among others.
 * Spark
 * MLflow
 * Microsoft Azure: Proficient with Azure Databricks, Azure Machine Learning Studio, Azure DevOps, and CI/CD practices.
