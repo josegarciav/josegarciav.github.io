@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-<!-- * Ph.D in Mathematics and Computing, University of the Basque Country, 2026 (expected) -->
-<!-- * M.S. in Modeling & Mathematical Research, Statistics and Computing, University of the Basque Country, 2024 -->
+<!-- * Ph.D in Mathematics and Computing, University of the Basque Country, 2029 (expected) -->
+* M.S. in Modeling & Mathematical Research, Statistics and Computing, University of the Basque Country, 2025
 * M.S. in Applied Mathematics, Santo Domingo Institute of Technology, 2022
 * B.S. in International Business & Finance, Utah State University, 2017
 * B.E. in Civil Engineering (first year), Santo Domingo Institute of Technology, 2013
@@ -20,15 +20,22 @@ Education
 
 Work experience
 ======
+* 2024-Present: Advanced AI Data Trainer
+  * [Invisible Technologies](https://www.invisible.co/)
+  * Duties include:
+    * Feed a reinforcement learning from human feedback (RLHF) pipeline to improve an LLM in a multitude of general knowledge and style domains.
+    * Sustain a reward modeling (RM) pipeline to finetune another model’s output.
+
+
 * 2023-Present: Data Scientist, Promo
   * [AB InBev](https://www.ab-inbev.com/)
   * Duties include:
     * Designed a data pipeline to streamline promotional strategy deployment, integrating machine learning models with the client interface Heroku API, reducing promotion design and release time by 3x.
     * Improved beer demand prediction accuracy for discount optimization using XGBoost, incorporating autoregressive variables, leading to a 3% reduction in MAPE.
     * Consolidated growth metrics from historical promotions into a single Databricks table, accelerating trend identification from A/B testing volume uplift measures by 5x.
-    * Designed classes to transform model outputs into combo formats for various LATAM countries.
+    * Designed metalearners (X-Learner, T-Learner) for binary treatment effect estimation (ATT, CATE) of innovations. Also implemented from scratch a synthetic control Difference-In-Differences intervention analysis.
 
-  * Supervisor: Carlos Montero
+  <!-- * Supervisor: Carlos Montero -->
 
 * 2022-2023: Lead Data Scientist
   * [Santa Cruz Bank](https://bsc.com.do/home)
@@ -41,7 +48,7 @@ Work experience
     * Developed a weekly data pipeline job to automate the generation and distribution of client account reports to respective managers. This boosted productivity by 3x, eliminating manual data wrangling tasks and reducing human errors.
     * Utilized Natural Language Processing (NLP) models for sentiment analysis, n-grams, and entity classifications to analyze customer interaction data from the SalesForce CRM system.
 
-  * Supervisor: Persio Martinez
+  <!-- * Supervisor: Persio Martinez -->
 
 * 2019-2022: Data Scientist
   * [Dominican Tax Administration](https://dgii.gov.do/Paginas/default.aspx)
@@ -51,15 +58,15 @@ Work experience
     * Developed various models including linear regression, decision trees, PCA, and clustering.
     * Created the Data Warehouse inventory eCatalog, a Shiny (R) solution mapping all data infrastructure used for risk estimations (metadata, data dictionaries, data lineage). This streamlined the process of identifying data sources by 5x.
 
-  * Supervisor: Marhiel Diaz
+  <!-- * Supervisor: Marhiel Diaz -->
 
 
 Skills
 ======
 * Git
-* Python: Proficient with libraries such as NetworkX, bokeh, pandas, numpy, math, sklearn, statsmodels, cvxpy, PuLP, Tensorflow, Pytorch, and frameworks like Jax and Pytest.
+* Python: Proficient with libraries such as NetworkX, bokeh, pandas, numpy, math, sklearn, statsmodels, cvxpy, PuLP, EconML, CausalML, Tensorflow, Pytorch, and frameworks like Jax and Pytest.
 * R: Skilled in using libraries like Shiny, ggplot2, plotly, data.table, wordcloud, tidyverse, readxl, rstan, stats, forecast, tsibble, lubridate, knitr, rmarkdown, kableExtra, networkD3, etc., and Posit Cloud (formerly RStudio Cloud).
-* Data Science Techniques: Propensity scoring, Inverse Probability Weighting (IPW), A/B/n testing, synthetic controls, regularization, among others.
+* Data Science & AI Techniques: Propensity score matching, Inverse Probability Weighting (IPW), A/B/n testing, synthetic controls, regularization, among others.
 * Spark
 * MLflow
 * Microsoft Azure: Proficient with Azure Databricks, Azure Machine Learning Studio, Azure DevOps, and CI/CD practices.
