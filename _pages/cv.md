@@ -23,17 +23,17 @@ Work experience
 * 2024-Present: Advanced AI Data Trainer
   * [Invisible Technologies](https://www.invisible.co/)
   * Duties include:
-    * Feed a reinforcement learning from human feedback (RLHF) pipeline to improve an LLM in a multitude of general knowledge and style domains.
-    * Sustain a reward modeling (RM) pipeline to finetune another model’s output.
+    * Feed a reinforcement learning from human feedback (RLHF) pipeline to improve an LLM in a multitude of knowledge domains, including math and programming.
+    * Sustain a reward modeling (RM) pipeline to fine-tune another model’s output using supervised fine-tuning (SFT) techniques.
 
 
-* 2023-Present: Data Scientist, Promo
+* 2023-2024: Data Scientist, Promo
   * [AB InBev](https://www.ab-inbev.com/)
-  * Duties include:
+  * Duties included:
     * Designed a data pipeline to streamline promotional strategy deployment, integrating machine learning models with the client interface Heroku API, reducing promotion design and release time by 3x.
     * Improved beer demand prediction accuracy for discount optimization using XGBoost, incorporating autoregressive variables, leading to a 3% reduction in MAPE.
     * Consolidated growth metrics from historical promotions into a single Databricks table, accelerating trend identification from A/B testing volume uplift measures by 5x.
-    * Designed metalearners (X-Learner, T-Learner) for binary treatment effect estimation (ATT, CATE) of innovations. Also implemented from scratch a synthetic control Difference-In-Differences intervention analysis.
+    * Designed meta-learners (X-Learner, T-Learner) for binary treatment effect estimation (ATT, CATE) of innovations. Also implemented from scratch a synthetic control Difference-In-Differences intervention analysis.
 
   <!-- * Supervisor: Carlos Montero -->
 
@@ -64,13 +64,13 @@ Work experience
 Skills
 ======
 * Git
-* Python: Proficient with libraries such as NetworkX, bokeh, pandas, numpy, math, sklearn, statsmodels, cvxpy, PuLP, EconML, CausalML, Tensorflow, Pytorch, and frameworks like Jax and Pytest.
-* R: Skilled in using libraries like Shiny, ggplot2, plotly, data.table, wordcloud, tidyverse, readxl, rstan, stats, forecast, tsibble, lubridate, knitr, rmarkdown, kableExtra, networkD3, etc., and Posit Cloud (formerly RStudio Cloud).
+* Python
+* R
 * Data Science & AI Techniques: Propensity score matching, Inverse Probability Weighting (IPW), A/B/n testing, synthetic controls, regularization, among others.
 * Spark
 * MLflow
-* Microsoft Azure: Proficient with Azure Databricks, Azure Machine Learning Studio, Azure DevOps, and CI/CD practices.
-* Additional Tools: Optuna, Tsfresh, Orbit.
+* Microsoft Azure Cloud: Azure Databricks, Azure Machine Learning Studio, Azure DevOps, and Azure Synapse Analytics.
+* Additional Tools: MATLAB, LaTeX.
 
 
 Leadership
