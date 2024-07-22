@@ -70,7 +70,7 @@ Skills
 * Spark
 * MLflow
 * Microsoft Azure: Proficient with Azure Databricks, Azure Machine Learning Studio, Azure DevOps, and CI/CD practices.
-* Additional Tools: Optuna, Tsfresh, Orbit.
+* Additional Tools: Optuna, Tsfresh, Orbit, LaTeX.
 
 
 Leadership
