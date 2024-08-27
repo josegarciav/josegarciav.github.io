@@ -24,8 +24,6 @@ Work experience
   * [Invisible Technologies](https://www.invisible.co/)
   * Duties include:
     * Feed a reinforcement learning from human feedback (RLHF) pipeline to improve a language model in a multitude of knowledge domains, including math and programming.
-    * Cooperate in training a reward model (RM) to evaluate another AI in a self-play mechanism, guiding the main AI towards more accurate and effective performance through iterative feedback.
-
 
 * 2023-2024: Data Scientist, Promo
   * [AB InBev](https://www.ab-inbev.com/)
@@ -66,7 +64,7 @@ Skills
 * Git
 * Python
 * R
-* Data Science & AI Techniques: Propensity score matching (PSM), inverse probability weighting (IPW), A/B/n testing, synthetic controls, regularization, among others.
+* Data Science & AI Techniques: Propensity score matching (PSM), inverse probability weighting (IPW), A/B/n testing, synthetic controls, regularization, reward modeling (RM), supervised fine-tuning (SFT), retrieval-augmented generation (RAG), among others.
 * Spark
 * MLflow
 * Microsoft Azure Cloud: Azure Databricks, Azure Machine Learning Studio, Azure DevOps, and Azure Synapse Analytics.
