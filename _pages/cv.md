@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 <!-- * Ph.D in Mathematics and Computing, University of the Basque Country, 2029 (expected) -->
-* M.S. in Modeling & Mathematical Research, Statistics and Computing, University of the Basque Country, 2025
+* M.S. in Mathematical Modeling, Research, Statistics, and Computing, University of the Basque Country, 2025
 * M.S. in Applied Mathematics, Santo Domingo Institute of Technology, 2022
 * B.S. in International Business & Finance, Utah State University, 2017
 * B.E. in Civil Engineering (first year), Santo Domingo Institute of Technology, 2013
@@ -23,17 +23,17 @@ Work experience
 * 2024-Present: Advanced AI Data Trainer
   * [Invisible Technologies](https://www.invisible.co/)
   * Duties include:
-    * Feed a reinforcement learning from human feedback (RLHF) pipeline to improve an LLM in a multitude of knowledge domains, including math and programming.
-    * Sustain a reward modeling (RM) pipeline to fine-tune another model’s output using supervised fine-tuning (SFT) techniques.
+    * Feed a reinforcement learning from human feedback (RLHF) pipeline to improve a language model in a multitude of knowledge domains, including math and programming.
+    * Cooperate in training a reward model (RM) to evaluate another AI in a self-play mechanism, guiding the main AI towards more accurate and effective performance through iterative feedback.
 
 
 * 2023-2024: Data Scientist, Promo
   * [AB InBev](https://www.ab-inbev.com/)
   * Duties included:
-    * Designed a data pipeline to streamline promotional strategy deployment, integrating machine learning models with the client interface Heroku API, reducing promotion design and release time by 3x.
-    * Improved beer demand prediction accuracy for discount optimization using XGBoost, incorporating autoregressive variables, leading to a 3% reduction in MAPE.
-    * Consolidated growth metrics from historical promotions into a single Databricks table, accelerating trend identification from A/B testing volume uplift measures by 5x.
-    * Designed meta-learners (X-Learner, T-Learner) for binary treatment effect estimation (ATT, CATE) of innovations. Also implemented from scratch a synthetic control Difference-In-Differences intervention analysis.
+    * Worked with regional LATAM team on tuning a promotion optimization algorithm, focusing on enabling different types of promotional strategies (combos, stepped, etc.) while optimizing key metrics such as investment (discounts, reward points), boxes, ROI, coverage, and net revenue.
+    * Collaborated on integrating modules to connect model outputs with client interface, which increased personalization and decreased release time of promotional campaigns by 3x.
+    * Improved beer demand prediction accuracy for discount optimization, incorporating autoregressive variables, leading to a 3% reduction in MAPE.
+    * Designed and implemented meta-learners (X-Learner, T-Learner) for estimating treatment effects (ATT, CATE), and developed a synthetic control Difference-In-Differences analysis to study the impact of market interventions.
 
   <!-- * Supervisor: Carlos Montero -->
 
@@ -66,7 +66,7 @@ Skills
 * Git
 * Python
 * R
-* Data Science & AI Techniques: Propensity score matching, Inverse Probability Weighting (IPW), A/B/n testing, synthetic controls, regularization, among others.
+* Data Science & AI Techniques: Propensity score matching (PSM), inverse probability weighting (IPW), A/B/n testing, synthetic controls, regularization, among others.
 * Spark
 * MLflow
 * Microsoft Azure Cloud: Azure Databricks, Azure Machine Learning Studio, Azure DevOps, and Azure Synapse Analytics.
