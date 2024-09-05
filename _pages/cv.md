@@ -23,13 +23,13 @@ Work experience
 * 2024-Present: Advanced AI Data Trainer
   * [Invisible Technologies](https://www.invisible.co/)
   * Duties include:
-    * Feed a reinforcement learning from human feedback (RLHF) pipeline to improve a language model in a multitude of knowledge domains, including math and programming. Employ techniques such as reward modeling (RM), supervised fine-tuning (SFT), retrieval-augmented generation (RAG), among others.
+    * Feed a reinforcement learning from human feedback (RLHF) pipeline to improve a language model in a multitude of knowledge domains, including math and programming.
 
 * 2023-2024: Data Scientist, Promo
   * [AB InBev](https://www.ab-inbev.com/)
   * Duties included:
     * Worked with regional LATAM team on tuning a promotion optimization algorithm, focusing on enabling different types of promotional strategies (combos, stepped, etc.) while optimizing key metrics such as investment (discounts, reward points), boxes, ROI, coverage, and net revenue.
-    * Collaborated on integrating modules to connect model outputs with client interface, which increased personalization and decreased release time of promotional campaigns by 3x.
+    * Optimized ROI by 48.7% in A/B test promotional experiments in the market of Panama, over a period of 8 months.
     * Improved beer demand prediction accuracy, incorporating autoregressive variables, leading to a 3% reduction in MAPE.
     * Designed and implemented causal inference machine learning models (X-Learner, T-Learner, Synthetic DiD) to study the impact (ATT, CATE) of market innovations, enabling trend identification at the blocking factor level.
 
