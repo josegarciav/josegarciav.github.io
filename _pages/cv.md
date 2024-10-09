@@ -20,10 +20,10 @@ Education
 
 Work experience
 ======
-* 2024-Present: Advanced AI Data Trainer
+* 2024-Present: Advanced Mathematics AI Data Trainer
   * [Invisible Technologies](https://www.invisible.co/)
   * Duties include:
-    * Feed a reinforcement learning from human feedback (RLHF) pipeline to improve a language model in a multitude of knowledge domains, including math and programming.
+    * Feed a reinforcement learning from human feedback (RLHF) pipeline to improve a language model, specifically in the domain of advanced mathematics.
 
 * 2023-2024: Data Scientist, Promo
   * [AB InBev](https://www.ab-inbev.com/)
