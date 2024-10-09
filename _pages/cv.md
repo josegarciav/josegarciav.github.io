@@ -20,10 +20,10 @@ Education
 
 Work experience
 ======
-* 2024-Present: Advanced AI Data Trainer
+* 2024-Present: Advanced AI Data Trainer (STEM)
   * [Invisible Technologies](https://www.invisible.co/)
   * Duties include:
-    * Feed a reinforcement learning from human feedback (RLHF) pipeline to improve a language model in a multitude of knowledge domains, including math and programming.
+    * Improve a language model by applying supervised fine-tuning (SFT) on LaTeX and advanced mathematics.
 
 * 2023-2024: Data Scientist, Promo
   * [AB InBev](https://www.ab-inbev.com/)
@@ -35,7 +35,7 @@ Work experience
 
   <!-- * Supervisor: Carlos Montero -->
 
-* 2022-2023: Lead Data Scientist
+* 2022-2023: Data Scientist
   * [Santa Cruz Bank](https://bsc.com.do/home)
   * Duties included:
     * Optimized the product recommendation feature pipeline from having < 20 to > 50 variables, into a collaborative filtering, ranking, and ensemble learning approach.
