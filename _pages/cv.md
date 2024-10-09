@@ -20,22 +20,22 @@ Education
 
 Work experience
 ======
-* 2024-Present: Advanced AI Data Trainer
+* 2024-Present: Advanced AI Data Trainer (STEM)
   * [Invisible Technologies](https://www.invisible.co/)
   * Duties include:
-    * Feed a reinforcement learning from human feedback (RLHF) pipeline to improve a language model in a multitude of knowledge domains, including math and programming.
+    * Improve a language model by applying supervised fine-tuning (SFT) on advanced mathematics.
 
 * 2023-2024: Data Scientist, Promo
   * [AB InBev](https://www.ab-inbev.com/)
   * Duties included:
-    * Worked with regional LATAM team on tuning a promotion optimization algorithm, focusing on enabling different types of promotional strategies (combos, stepped, etc.) while optimizing key metrics such as investment (discounts, reward points), boxes, ROI, coverage, and net revenue.
-    * Optimized ROI by 48.7% in A/B test promotional experiments in the market of Panama, over a period of 8 months.
-    * Improved beer demand prediction accuracy, incorporating autoregressive variables, leading to a 3% reduction in MAPE.
+    * Worked with a regional LATAM team on tuning a promotion optimization algorithm, focusing on enabling different promotional strategies (combos, stepped, etc.) while optimizing key metrics such as investment (discounts, reward points), boxes, ROI, coverage, and net revenue.
+    * Optimized ROI by 48% in A/B test promotional experiments in the market of Panama, over a period of 8 months.
+    * Developed the algorithm for promotions on customers who had never purchased an SKU, focusing on purchase propensity and customer characteristics to balance categories such as boxes required and discount level offered, saving on the company's budget by allowing for more efficient allocation of discounts.
     * Designed and implemented causal inference machine learning models (X-Learner, T-Learner, Synthetic DiD) to study the impact (ATT, CATE) of market innovations, enabling trend identification at the blocking factor level.
 
   <!-- * Supervisor: Carlos Montero -->
 
-* 2022-2023: Lead Data Scientist
+* 2022-2023: Data Scientist
   * [Santa Cruz Bank](https://bsc.com.do/home)
   * Duties included:
     * Optimized the product recommendation feature pipeline from having < 20 to > 50 variables, into a collaborative filtering, ranking, and ensemble learning approach.
@@ -66,12 +66,13 @@ Skills
 * Data Science & AI Techniques: Propensity score matching (PSM), A/B/n testing, synthetic controls, regularization, among others.
 * Spark
 * MLflow
-* Ray
+<!-- * Ray -->
 * Microsoft Azure Cloud: Azure Databricks, Azure Machine Learning Studio, Azure DevOps, and Azure Synapse Analytics.
-* Additional Tools: MATLAB, LaTeX.
+* Additional Tools: Julia (HiGHS, JuMP), MATLAB, LaTeX.
 
 
 Leadership
 ======
+* AB InBev Analytics Workshop Professor (2024)
 * AB InBev Global Hackathon (2023)
 * R Programming Mentor (2022-2023)
