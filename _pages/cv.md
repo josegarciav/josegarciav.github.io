@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-<!-- * Ph.D. in Mathematics and Computing, University of the Basque Country, 2029 (expected) -->
+<!-- * Ph.D. in Mathematics and Statistics, University of the Basque Country, 2029 (expected) -->
 * M.S. in Mathematical Modeling, Research, Statistics, and Computing, University of the Basque Country, 2025
 * M.S. in Applied Mathematics, Santo Domingo Institute of Technology, 2022
 * B.S. in International Business & Finance, Utah State University, 2017
@@ -66,9 +66,8 @@ Skills
 * Data Science & AI Techniques: Propensity score matching (PSM), A/B/n testing, synthetic controls, regularization, among others.
 * Spark
 * MLflow
-<!-- * Ray -->
 * Microsoft Azure Cloud: Azure Databricks, Azure Machine Learning Studio, Azure DevOps, and Azure Synapse Analytics.
-* Additional Tools: Julia (HiGHS, JuMP), MATLAB, LaTeX.
+* Additional Tools: Julia (HiGHS, JuMP), MATLAB, Java.
 
 
 Leadership
