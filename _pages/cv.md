@@ -68,7 +68,7 @@ Skills
 * MLflow
 <!-- * Ray -->
 * Microsoft Azure Cloud: Azure Databricks, Azure Machine Learning Studio, Azure DevOps, and Azure Synapse Analytics.
-* Additional Tools: Julia (HiGHS, JuMP), MATLAB, LaTeX.
+* Additional Tools: Julia (HiGHS, JuMP), MATLAB, Java.
 
 
 Leadership
