@@ -13,7 +13,7 @@ Education
 ======
 <!-- * Ph.D. in Mathematics and Statistics, University of the Basque Country, 2029 (expected) -->
 * M.S. in Mathematical Modeling, Research, Statistics, and Computing, University of the Basque Country, 2025
-* M.S. in Applied Mathematics, Santo Domingo Institute of Technology, 2022
+* M.S. in Applied Mathematics, Santo Domingo Institute of Technology, 2023
 * B.S. in International Business & Finance, Utah State University, 2017
 * B.E. in Civil Engineering (first year), Santo Domingo Institute of Technology, 2013
 
@@ -67,7 +67,7 @@ Skills
 * Spark
 * MLflow
 * Microsoft Azure Cloud: Azure Databricks, Azure Machine Learning Studio, Azure DevOps, and Azure Synapse Analytics.
-* Additional Tools: Julia (HiGHS, JuMP), MATLAB, Java.
+* Additional Tools: SQL, Julia (HiGHS, JuMP), MATLAB, Java.
 
 
 Leadership
