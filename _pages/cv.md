@@ -19,31 +19,29 @@ Education
 
 
 Work experience
-======  
-* 2024-Present: Expert AI Data Trainer - Mathematics
+======
+* 2024-Present: Expert AI Data Trainer, Mathematics
   * [Invisible Technologies](https://www.invisible.co/)
   * Duties include:
-    * Create and validate data to train LLMs on mathematics and logical reasoning in the supervised fine-tuning (SFT) stage.
+    * Create and validate data to train an LLM in mathematics and logical reasoning, during the supervised fine-tuning (SFT) stage.
 
 * 2023-2024: Data Scientist, Promo
   * [AB InBev](https://www.ab-inbev.com/)
   * Duties included:
-    * Worked with a regional LATAM team on tuning a promotion optimization algorithm, focusing on enabling different promotional strategies (combos, stepped, etc.) while optimizing key metrics such as investment (discounts, reward points), boxes, ROI, coverage, and net revenue.
+    * Collaborated with regional LATAM team on a promotion optimization algorithm, improving key metrics like ROI, investment, and coverage across various promotional strategies (combos, stepped, among others).
     * Optimized ROI by 48% in A/B test promotional experiments in the market of Panama, over a period of 8 months.
-    * Developed the algorithm for promotions on customers who had never purchased an SKU, focusing on purchase propensity and customer characteristics to balance categories such as boxes required and discount level offered, saving on the company's budget by allowing for more efficient allocation of discounts.
-    * Designed and implemented causal inference machine learning models (X-Learner, T-Learner, Synthetic DiD) to study the impact (ATT, CATE) of market innovations, enabling trend identification at the blocking factor level.
+    * Developed an algorithm targeting first-time purchasers, optimizing discount allocation and saving on budget.
+    * Designed and implemented causal inference models (X-Learner, T-Learner, Synthetic DiD) to assess market innovation impacts (ATT, CATE), enabling trend identification at the blocking factor level.
 
   <!-- * Supervisor: Carlos Montero -->
 
 * 2022-2023: Data Scientist
   * [Santa Cruz Bank](https://bsc.com.do/home)
   * Duties included:
-    * Optimized the product recommendation feature pipeline from having < 20 to > 50 variables, into a collaborative filtering, ranking, and ensemble learning approach.
-    * Enhanced the bank customer segmentation model with two additional levels:
-      1. Introduced a clustering approach based on digital channel use.
-      2. Incorporated psychographic segmentation using data from commerce categories.
-    * Developed a weekly data pipeline job to automate the generation and distribution of client account reports. This boosted productivity by 3x, eliminating manual data wrangling tasks and reducing human errors.
-    * Utilized Natural Language Processing (NLP) models for sentiment analysis, n-grams, and entity classifications to analyze customer interaction data from the Salesforce CRM system.
+    * Optimized the product recommendation (NBA) feature pipeline from having < 20 to > 50 variables, into a collaborative filtering, ranking, and ensemble learning approach.
+    * Enhanced customer segmentation by incorporating digital behavior clustering and psychographic profiling based on commerce data.
+    * Automated weekly client account reporting via a data pipeline job, boosting productivity 3x and eliminating manual data wrangling.
+    * Applied NLP techniques (sentiment analysis, n-grams, entity classification) to extract insights from Salesforce CRM interaction data.
 
   <!-- * Supervisor: Persio Martinez -->
 
@@ -51,8 +49,8 @@ Work experience
   * [Dominican Tax Administration](https://dgii.gov.do/Paginas/default.aspx)
   * Duties included:
     * Collaborated in developing the analytics & machine learning feedback system to label taxpayers as risky or not risky.
-    * Automated mitigation treatment data pipelines, linking risk estimates to potential preventive and corrective actions. This accelerated the decision-making process for identifying and prioritizing tax evasion by 4x.
-    * Developed various models including linear regression, decision trees, PCA, and clustering.
+    * Mapped shareholding structures using graph theory (NetworkX, Bokeh) to identify central entities and uncover hidden transactional relationships, improving the detection and prioritization of tax evasion cases by 2x.
+    * Built models such as linear regression, decision trees, PCA, and clustering.
     * Created the Data Warehouse inventory eCatalog, a Shiny (R) solution mapping all data infrastructure used for risk estimations (metadata, data dictionaries, data lineage). This streamlined the process of identifying data sources by 5x.
 
   <!-- * Supervisor: Marhiel Diaz -->
@@ -67,7 +65,7 @@ Skills
 * Spark
 * MLflow
 * Microsoft Azure Cloud: Azure Databricks, Azure Machine Learning Studio, Azure DevOps, and Azure Synapse Analytics.
-* Additional Tools: SQL, Julia (HiGHS, JuMP), MATLAB, Java.
+* Additional Tools: SQL, Julia (JuMP), MATLAB, Java.
 
 
 Leadership
