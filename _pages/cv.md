@@ -19,11 +19,11 @@ Education
 
 
 Work experience
-======
-* 2024-Present: Advanced AI Data Trainer (STEM)
+======  
+* 2024-Present: Expert AI Data Trainer - Mathematics
   * [Invisible Technologies](https://www.invisible.co/)
   * Duties include:
-    * Improve a language model by applying supervised fine-tuning (SFT) on advanced mathematics.
+    * Create and validate data to train LLMs on mathematics and logical reasoning in the supervised fine-tuning (SFT) stage.
 
 * 2023-2024: Data Scientist, Promo
   * [AB InBev](https://www.ab-inbev.com/)
