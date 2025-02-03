@@ -61,7 +61,7 @@ Skills
 * Git
 * Python
 * R
-* Data Science & AI Techniques: Propensity score matching (PSM), A/B/n testing, synthetic controls, regularization, among others.
+* Data Science & AI Techniques: Propensity score matching (PSM), A/B/n testing, RCTs, synthetic controls, regularization, among others.
 * Spark
 * MLflow
 * Microsoft Azure Cloud: Azure Databricks, Azure Machine Learning Studio, Azure DevOps, and Azure Synapse Analytics.
