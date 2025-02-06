@@ -65,7 +65,7 @@ Skills
 * Spark
 * MLflow
 * Microsoft Azure Cloud: Azure Databricks, Azure Machine Learning Studio, Azure DevOps, and Azure Synapse Analytics.
-* Additional Tools: SQL, Julia (JuMP), MATLAB, Java.
+* Additional Tools: SQL, MATLAB, Java, CPLEX.
 
 
 Leadership
