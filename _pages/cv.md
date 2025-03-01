@@ -24,11 +24,13 @@ Work experience
   * [Invisible Technologies](https://www.invisible.co/)
   * Duties include:
     * Create and validate data to train an LLM in mathematics and logical reasoning, during the supervised fine-tuning (SFT) stage.
+    * Have also been involved with reward modeling projects and RLHF frameworks.
 
-* 2023-2024: Data Scientist, Promo
+* 2023-2024: Data Scientist, Promo (BEES)
   * [AB InBev](https://www.ab-inbev.com/)
   * Duties included:
     * Collaborated with regional LATAM team on a promotion optimization algorithm, improving key metrics like ROI, investment, and coverage across various promotional strategies (combos, stepped, among others).
+      * This involved modeling demand elasticity with a log-log model (XGBoost), optimizing for a chosen metric with cubic splines, among other phases.
     * Optimized ROI by 48% in A/B test promotional experiments in the market of Panama, over a period of 8 months.
     * Developed an algorithm targeting first-time purchasers, optimizing discount allocation and saving on budget.
     * Designed and implemented causal inference models (X-Learner, T-Learner, Synthetic DiD) to assess market innovation impacts (ATT, CATE), enabling trend identification at the blocking factor level.
