@@ -17,14 +17,12 @@ Education
 * B.S. in International Business & Finance, Utah State University
 <!-- * B.E. in Civil Engineering (first year), Santo Domingo Institute of Technology -->
 
-
 Work experience
 ======
-<!-- * 2024-Present: Expert AI Data Trainer, Mathematics
+* 2024-Present: Advanced AI Data Trainer, Mathematics
   * [Invisible Technologies](https://www.invisible.co/)
   * Duties include:
-    * Create and validate data to train an LLM in mathematics and logical reasoning, during the supervised fine-tuning (SFT) stage.
-    * Have also been involved with reward modeling projects and RLHF frameworks. -->
+    * Develop high-quality datasets to assist foundation model providers in fine-tuning LLMs to achieve expert-level performance in specialized domains, particularly mathematics and logical reasoning.
 
 * 2023-2024: Data Scientist, Promo (BEES)
   * [AB InBev](https://www.ab-inbev.com/)
@@ -35,7 +33,6 @@ Work experience
     * Developed an algorithm targeting first-time purchasers, optimizing discount allocation and saving on budget.
     * Designed and implemented causal inference models (X-Learner, T-Learner, Synthetic DiD) to assess market innovation impacts (ATT, CATE), enabling trend identification at the blocking factor level.
 
-  <!-- * Supervisor: Carlos Montero -->
 
 * 2022-2023: Data Scientist
   * [Santa Cruz Bank](https://bsc.com.do/home)
@@ -45,7 +42,6 @@ Work experience
     * Automated weekly client account reporting via a data pipeline job, boosting productivity 3x and eliminating manual data wrangling.
     * Applied NLP techniques (sentiment analysis, n-grams, entity classification) to extract insights from Salesforce CRM interaction data.
 
-  <!-- * Supervisor: Persio Martinez -->
 
 * 2019-2022: Data Scientist
   * [Dominican Tax Administration](https://dgii.gov.do/Paginas/default.aspx)
@@ -55,7 +51,6 @@ Work experience
     * Built models such as linear regression, decision trees, PCA, and clustering.
     * Created the Data Warehouse inventory eCatalog, a Shiny (R) solution mapping all data infrastructure used for risk estimations (metadata, data dictionaries, data lineage). This streamlined the process of identifying data sources by 5x.
 
-  <!-- * Supervisor: Marhiel Diaz -->
 
 
 Skills
@@ -75,3 +70,7 @@ Leadership
 * AB InBev Analytics Workshop Professor (2024)
 * AB InBev Global Hackathon (2023)
 * R Programming Mentor (2022-2023)
+
+
+
+Last updated: {{ "now" | date: "%Y-%m-%d" }}
