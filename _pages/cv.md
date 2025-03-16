@@ -19,12 +19,12 @@ Education
 
 Work experience
 ======
-* 2024-Present: Advanced AI Data Trainer, Mathematics
+* 2024-Present: Data Scientist, Senior LLM AI Trainer
   * [Invisible Technologies](https://www.invisible.co/)
   * Duties include:
     * Develop high-quality datasets to assist foundation model providers in fine-tuning LLMs to achieve expert-level performance in specialized domains, particularly mathematics and logical reasoning.
 
-* 2023-2024: Data Scientist, Promo (BEES)
+* 2023-2024: Data Scientist, Promotion Optimization (BEES)
   * [AB InBev](https://www.ab-inbev.com/)
   * Duties included:
     * Collaborated with regional LATAM team on a promotion optimization algorithm, improving key metrics like ROI, investment, and coverage across various promotional strategies (combos, stepped, among others).
@@ -34,7 +34,7 @@ Work experience
     * Designed and implemented causal inference models (X-Learner, T-Learner, Synthetic DiD) to assess market innovation impacts (ATT, CATE), enabling trend identification at the blocking factor level.
 
 
-* 2022-2023: Data Scientist
+* 2022-2023: Data Scientist, Product Recommendation
   * [Santa Cruz Bank](https://bsc.com.do/home)
   * Duties included:
     * Optimized the product recommendation (NBA) feature pipeline from having < 20 to > 50 variables, into a collaborative filtering, ranking, and ensemble learning approach.
@@ -43,7 +43,7 @@ Work experience
     * Applied NLP techniques (sentiment analysis, n-grams, entity classification) to extract insights from Salesforce CRM interaction data.
 
 
-* 2019-2022: Data Scientist
+* 2019-2022: Data Scientist, Risk Analytics
   * [Dominican Tax Administration](https://dgii.gov.do/Paginas/default.aspx)
   * Duties included:
     * Collaborated in developing the analytics & machine learning feedback system to label taxpayers as risky or not risky.
