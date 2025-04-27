@@ -12,17 +12,19 @@ redirect_from:
 Education
 ======
 <!-- * Ph.D. in Mathematics and Statistics, University of the Basque Country, 2029 (expected) -->
-* M.S. in Mathematical Modeling, Research, Statistics, and Computing, University of the Basque Country
+* M.S. in Mathematical Modeling, Statistics, and Computation, University of the Basque Country
 * M.S. in Applied Mathematics, Santo Domingo Institute of Technology
 * B.S. in International Business & Finance, Utah State University
 <!-- * B.E. in Civil Engineering (first year), Santo Domingo Institute of Technology -->
 
 Work experience
 ======
-* 2024-Present: Data Scientist, Senior LLM AI Trainer
+* 2024-Present: Data Scientist, LLM Engineer
   * [Invisible Technologies](https://www.invisible.co/)
   * Duties include:
-    * Develop high-quality datasets to assist foundation model providers in fine-tuning LLMs to achieve expert-level performance in specialized domains, particularly mathematics and logical reasoning.
+    * Engineer and curate high-quality datasets to fine-tune large language models (LLMs) for expert-level performance in specialized domains, with emphasis on advanced mathematics, multi-step logical reasoning, and research-intensive tasks.
+    * Develop Chain-of-Thought (CoT) reasoning prompts and scaffolded training strategies to strengthen model abilities in stepwise problem-solving, multi-hop inference, and inductive logic.
+    * Designed adversarial prompts to surface model failure modes in complex tasks, collected source-verified corrections, and built supervised fine-tuning datasets, reducing hallucination rates in deep research models by ~15%.
 
 * 2023-2024: Data Scientist, Promotion Optimization (BEES)
   * [AB InBev](https://www.ab-inbev.com/)
