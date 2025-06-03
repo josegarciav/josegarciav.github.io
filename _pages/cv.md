@@ -19,12 +19,12 @@ Education
 
 Work experience
 ======
-* 2024-Present: Data Scientist, LLM Engineer
+<!-- * 2024-Present: Data Scientist, LLM Engineer
   * [Invisible Technologies](https://www.invisible.co/)
   * Duties include:
     * Engineer and curate high-quality datasets to fine-tune large language models (LLMs) for expert-level performance in specialized domains, with emphasis on advanced mathematics, multi-step logical reasoning, and research-intensive tasks.
     * Develop Chain-of-Thought (CoT) reasoning prompts and scaffolded training strategies to strengthen model abilities in stepwise problem-solving, multi-hop inference, and inductive logic.
-    * Designed adversarial prompts to surface model failure modes in complex tasks, collected source-verified corrections, and built supervised fine-tuning datasets, reducing hallucination rates in deep research models by ~15%.
+    * Designed adversarial prompts to surface model failure modes in complex tasks, collected source-verified corrections, and built supervised fine-tuning datasets, reducing hallucination rates in deep research models by ~15%. -->
 
 * 2023-2024: Data Scientist, Promotion Optimization (BEES)
   * [AB InBev](https://www.ab-inbev.com/)
@@ -63,8 +63,8 @@ Skills
 * Data Science & AI Techniques: Propensity score matching (PSM), A/B/n testing, RCTs, synthetic controls, regularization, among others.
 * Spark
 * MLflow
-* Microsoft Azure Cloud: Azure Databricks, Azure Machine Learning Studio, Azure DevOps, and Azure Synapse Analytics.
-* Additional Tools: SQL, MATLAB, Java, CPLEX.
+* Azure Cloud: Azure Databricks, Azure Machine Learning Studio, Azure DevOps, and Azure Synapse Analytics. AWS: Amazon SageMaker, Amazon Redshift, Athena, AWS Glue.
+* Additional Tools: SQL, MATLAB, Java, CPLEX, Gurobi, PuLP.
 
 
 Leadership
