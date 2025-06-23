@@ -19,6 +19,13 @@ Education
 
 Work experience
 ======
+
+* 2025-Present: Senior Software Engineer, Pricing
+  * [Mphasis](https://www.mphasis.com/home.html)
+  * Duties included:
+    * Collaborate within the Pricing Data Science team of HP Inc, with a software standardization project for multiple data projects in various global regions, aiming at developing a common architecture for data engineering, feature engineering, modeling, and deployment of pricing models.
+    * The projects include causal inference for CATE estimation, demand prediction for smart promotions, among others.
+
 <!-- * 2024-Present: Data Scientist, LLM Engineer
   * [Invisible Technologies](https://www.invisible.co/)
   * Duties include:
@@ -63,7 +70,7 @@ Skills
 * Data Science & AI Techniques: Propensity score matching (PSM), A/B/n testing, RCTs, synthetic controls, regularization, among others.
 * Spark
 * MLflow
-* Azure Cloud: Azure Databricks, Azure Machine Learning Studio, Azure DevOps, and Azure Synapse Analytics. AWS: Amazon SageMaker, Amazon Redshift, Athena, AWS Glue.
+* Azure Cloud: Azure Databricks, DL/Hive, Azure Machine Learning Studio, Azure DevOps, and Azure Synapse Analytics. AWS: Amazon SageMaker, Amazon Redshift, Athena, AWS Glue.
 * Additional Tools: SQL, MATLAB, Java, CPLEX, Gurobi, PuLP.
 
 
