@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <!-- ![Beach staring](/images/staring_at_the_beach.jpg){: .align-right width="300px"} -->
-I'm a Data Scientist with over 5 years of experience. 👨🏻‍💻
+I'm a Data Scientist with over 6 years of experience. 👨🏻‍💻
 
 📚 My areas of expertise include optimization modeling, personalization & recommendation systems, causal inference techniques, and time series forecasting.
 
