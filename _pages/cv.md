@@ -15,7 +15,7 @@ Education
 * M.S. in Mathematical Modeling, Statistics, and Computation, University of the Basque Country
 * M.S. in Applied Mathematics, Santo Domingo Institute of Technology
 * B.S. in International Business & Finance, Utah State University
-<!-- * B.E. in Civil Engineering (first year), Santo Domingo Institute of Technology -->
+* B.E. in Civil Engineering (first year), Santo Domingo Institute of Technology
 
 Work experience
 ======
@@ -26,12 +26,12 @@ Work experience
     * Collaborate within the Pricing Data Science team of HP Inc, with a software standardization project for multiple data projects in various global regions, aiming at developing a common architecture for data engineering, feature engineering, modeling, and deployment of pricing models.
     * The projects include causal inference for CATE estimation, demand prediction for smart promotions, among others. -->
 
-* 2024-Present: Data Scientist, LLM Engineer (Freelance)
+<!-- * 2024-Present: Data Scientist, LLM Engineer (Freelance)
   * [Invisible Technologies](https://www.invisible.co/)
   * Duties include:
     * Engineer and curate high-quality datasets to fine-tune large language models (LLMs) for expert-level performance in specialized domains, with emphasis on advanced mathematics, multi-step logical reasoning, and research-intensive tasks.
     * Develop Chain-of-Thought (CoT) reasoning prompts and scaffolded training strategies to strengthen model abilities in stepwise problem-solving, multi-hop inference, and inductive logic.
-    * Designed adversarial prompts to surface model failure modes in complex tasks, collected source-verified corrections, and built supervised fine-tuning datasets to reduce hallucination rates.
+    * Designed adversarial prompts to surface model failure modes in complex tasks, collected source-verified corrections, and built supervised fine-tuning datasets to reduce hallucination rates. -->
 
 * 2023-2024: Data Scientist, Promotion Optimization (BEES)
   * [AB InBev](https://www.ab-inbev.com/)
