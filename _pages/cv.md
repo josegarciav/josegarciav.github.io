@@ -67,10 +67,10 @@ Skills
 * Git
 * Python
 * R
-* Data Science & AI Techniques: Propensity score matching (PSM), A/B/n testing, RCTs, synthetic controls, regularization, among others.
+* Data Science & AI Techniques: Propensity score matching (PSM), Double machine learning (DML), Doubly robust machine learning (DRML), A/B/n testing, RCTs, synthetic controls, among others.
 * Spark
 * MLflow
-* Azure Cloud: Azure Databricks, DL/Hive, Azure Machine Learning Studio, Azure DevOps, and Azure Synapse Analytics. AWS: Amazon SageMaker, Amazon Redshift, Athena, AWS Glue.
+* Azure Cloud: Azure Databricks, DL/Hive, Azure Machine Learning Studio, Azure DevOps, Unity Catalog, Delta Live Tables (DLT), and Azure Synapse Analytics. AWS: Amazon SageMaker, Amazon Redshift, Athena, AWS Glue.
 * Additional Tools: SQL, MATLAB, Java, CPLEX, Gurobi, PuLP.
 
 
