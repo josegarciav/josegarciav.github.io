@@ -11,8 +11,7 @@ redirect_from:
 
 Education
 ======
-<!-- * Ph.D. in Mathematics and Statistics, University of the Basque Country, 2029 (expected) -->
-* M.S. in Mathematical Modeling, Statistics, and Computation, University of the Basque Country
+* M.S. in Mathematical Modeling, Research, Statistics, and Computation, University of the Basque Country
 * M.S. in Applied Mathematics, Santo Domingo Institute of Technology
 * B.S. in International Business & Finance, Utah State University
 * B.E. in Civil Engineering (first year), Santo Domingo Institute of Technology
@@ -20,18 +19,21 @@ Education
 Work experience
 ======
 
-<!-- * 2025-Present: Senior Software Engineer, Pricing
-  * [Mphasis](https://www.mphasis.com/home.html)
-  * Duties included:
-    * Collaborate within the Pricing Data Science team of HP Inc, with a software standardization project for multiple data projects in various global regions, aiming at developing a common architecture for data engineering, feature engineering, modeling, and deployment of pricing models.
-    * The projects include causal inference for CATE estimation, demand prediction for smart promotions, among others. -->
-
-<!-- * 2024-Present: Data Scientist, LLM Engineer (Freelance)
-  * [Invisible Technologies](https://www.invisible.co/)
+* 2025-Present: Senior Software Engineer, Pricing
+  * [HP Inc (via Mphasis)](https://www.hp.com/es-es/home.html)
   * Duties include:
+    * Collaborate within the Pricing Data Science team of HP Inc, with a software standardization project for multiple data projects in various global regions, aiming at developing a common architecture for data engineering, feature engineering, modeling, and deployment of pricing models.
+    *	Standardized ML engineering practices by refactoring legacy pipelines using efficient Spark transformations, and establishing reproducible workflows for pricing analytics and demand forecasting.
+    *	Architected 3 modular Delta Live Tables pipelines in Python to support retail and commercial demand models across North America and EMEA, reducing code duplication by ~11% and enabling region-specific customizations.
+    *	Led adoption of MLOps and DataOps best practices, delivering documentation (CI/CD, modularization, design patterns) to 5 data scientists, establishing the foundation for future ML systems.
+    
+
+* 2024-2025: Data Scientist, LLM Engineer (Freelance)
+  * [Invisible Technologies](https://www.invisible.co/)
+  * Duties included:
     * Engineer and curate high-quality datasets to fine-tune large language models (LLMs) for expert-level performance in specialized domains, with emphasis on advanced mathematics, multi-step logical reasoning, and research-intensive tasks.
-    * Develop Chain-of-Thought (CoT) reasoning prompts and scaffolded training strategies to strengthen model abilities in stepwise problem-solving, multi-hop inference, and inductive logic.
-    * Designed adversarial prompts to surface model failure modes in complex tasks, collected source-verified corrections, and built supervised fine-tuning datasets to reduce hallucination rates. -->
+    * Develop Chain-of-Thought (CoT) mathematical reasoning prompts to strengthen model abilities in stepwise problem-solving, multi-hop inference, and inductive logic.
+    * Designed adversarial prompts to surface model failure modes in complex tasks, collected source-verified corrections, and built supervised fine-tuning datasets to reduce hallucination rates.
 
 * 2023-2024: Data Scientist, Promotion Optimization (BEES)
   * [AB InBev](https://www.ab-inbev.com/)
@@ -67,11 +69,11 @@ Skills
 * Git
 * Python
 * R
-* Data Science & AI Techniques: Propensity score matching (PSM), A/B/n testing, RCTs, synthetic controls, regularization, among others.
+* Data Science & AI Techniques: Propensity score matching (PSM), Double machine learning (DML), Doubly robust machine learning (DRML), A/B/n testing, RCTs, synthetic controls, among others.
 * Spark
 * MLflow
-* Azure Cloud: Azure Databricks, DL/Hive, Azure Machine Learning Studio, Azure DevOps, and Azure Synapse Analytics. AWS: Amazon SageMaker, Amazon Redshift, Athena, AWS Glue.
-* Additional Tools: SQL, MATLAB, Java, CPLEX, Gurobi, PuLP.
+* Azure Cloud: Azure Databricks, DL/Hive, Azure Machine Learning Studio, Azure DevOps, Unity Catalog, Delta Live Tables (DLT), and Azure Synapse Analytics. AWS: Amazon SageMaker, Amazon Redshift, Athena, AWS Glue.
+* Additional Tools: SQL, MATLAB, Java, Julia, CPLEX, Gurobi, PuLP.
 
 
 Leadership
