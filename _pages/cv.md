@@ -22,9 +22,9 @@ Work experience
 * 2025-2025: Senior Software Engineer, Pricing Analytics
   * [HP Inc (via Mphasis)](https://www.hp.com/es-es/home.html)
   * Duties included:
-    * Collaborated within the Pricing Data Science team of HP Inc (Sant Cugat), with a software standardization project for multiple data projects in various markets, aiming at developing a common architecture for data engineering, feature engineering, modeling, and deployment of price elasticity and demand forecasting models.
+    * Collaborated within the Pricing Data Science team of HP Inc (Sant Cugat), with a data science software refactoring project for various markets, aiming at developing a common architecture for feature engineering, modeling, and deployment of price elasticity and causal inference models.
     *	Architected 3 modular Delta Live Tables pipelines in Python to support retail and commercial demand models across North America and EMEA, reducing code duplication by ~11%, enabling region-specific customizations.
-    * Designed with stakeholders new MLOps features including integration testing between AWS model deployment platforms and internal feature library versions, increasing model deployment reliability by 10%.
+    * Built counterfactual price model (LightGBM) to simulate competitor brand prices as if they were an HP brand, to use as confounders in a demand elasticity model.
 
 
 <!-- * 2024-2025: LLM Engineer
@@ -42,6 +42,7 @@ Work experience
       * This involved modeling demand elasticity with a log-log model (XGBoost), optimizing for a chosen metric with cubic splines, rank suggested order arrangements in combos, among other dynamic phases.
     * Optimized ROI by 48% in A/B test promotional experiments in the market of Panama, over a period of 8 months.
     * Developed an algorithm targeting first-time purchasers, optimizing discount allocation and saving on budget.
+    * Created an RCT module that automated user allocation into control and treatment groups and logged experiment metadata (promotion ID, allocation, blocking factors, timestamps) to a historical registry, reducing experiment design time by ~80%.
     * Designed and implemented causal inference models (X-Learner, T-Learner, Synthetic DiD, DRLearner) to assess market innovation impacts (ATT, CATE), enabling trend identification at the blocking factor level.
 
 
@@ -58,9 +59,10 @@ Work experience
   * [DGII](https://dgii.gov.do/Paginas/default.aspx)
   * Duties included:
     * Collaborated in developing the analytics & machine learning feedback system to label taxpayers as risky or not risky.
-    * Mapped shareholding structures using graph theory (NetworkX, Bokeh) to identify central entities and uncover hidden transactional relationships, improving the detection and prioritization of tax evasion cases by 2x.
     * Built models such as linear regression, decision trees, PCA, and clustering.
-    * Created the Data Warehouse inventory eCatalog, a Shiny (R) solution mapping all data infrastructure used for risk estimations (metadata, data dictionaries, data lineage). This streamlined the process of identifying data sources by 5x.
+    * Helped define sector-specific, multidimensional risk metrics spanning income underreporting, cost inflation, shareholder benefit abuse, and transfer pricing anomalies.
+    * Mapped shareholding structures with graph theory (NetworkX, Bokeh), leveraging centrality insights to reveal influential entities and hidden transactional links, improving tax evasion case prioritization by 2x.
+    * Created the Data Warehouse inventory eCatalog, a Shiny (R) solution mapping all data infrastructure used for risk estimations (metadata, data dictionaries, data lineage). This streamlined the process of identifying data sources by 2x.
 
 
 Skills
@@ -72,7 +74,7 @@ Skills
 * Spark
 * Data Science & AI Techniques: Propensity score matching (PSM), Double machine learning (DML), Doubly robust machine learning (DRML), A/B/n testing, RCTs, CATE calibration methods, among others.
 * Azure Cloud: Azure Databricks, DL/Hive, Azure Machine Learning Studio, Azure DevOps, Unity Catalog, Lakeflow (data orchestration), Delta Live Tables (DLT), and Azure Synapse Analytics. AWS: Amazon SageMaker, Amazon Redshift, Athena, AWS Glue.
-* Additional Tools: MATLAB, Java, Gurobi, PuLP, Docker, MLflow, Airflow.
+* Additional Tools: MATLAB, Java, Gurobi, PuLP, Docker, MLflow, Airflow, Pytest, CI/CD.
 
 
 Leadership
