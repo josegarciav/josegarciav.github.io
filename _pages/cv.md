@@ -27,12 +27,12 @@ Work experience
     * Built counterfactual price model (LightGBM) to simulate competitor brand prices as if they were an HP brand, to use as confounders in a demand elasticity model.
 
 
-<!-- * 2024-2025: LLM Engineer
+* 2024-2025: LLM Engineer
   * [Invisible Technologies](https://www.invisible.co/)
   * Duties included:
     * Engineer and curate high-quality datasets to fine-tune large language models (LLMs) for expert-level performance in specialized domains, with emphasis on mathematics, multi-step logical reasoning, and research-intensive tasks.
     * Developed Chain-of-Thought (CoT) mathematical reasoning prompts to strengthen model abilities in stepwise problem-solving, multi-hop inference, and inductive logic.
-    * Designed adversarial prompts to surface model failure modes in complex tasks, collected source-verified corrections, and built supervised fine-tuning datasets to reduce hallucination rates. -->
+    * Designed adversarial prompts to surface model failure modes in complex tasks, collected source-verified corrections, and built supervised fine-tuning datasets to reduce hallucination rates.
 
 
 * 2023-2024: Data Scientist, Promotion Optimization (BEES)
