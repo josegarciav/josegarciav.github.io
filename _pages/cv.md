@@ -18,8 +18,17 @@ Education
 
 Work experience
 ======
+<!-- https://www.runpulse.com/#step4 -->
+* 2025-present: Co-Founder, Staff AI Engineer
+  * Pulsecity
+  * Duties include:
+    * Architected a modular event intelligence platform that unifies urban signals into a source-agnostic Canonical Event Schema; implemented the Adapter Pattern to abstract diverse ingestion methods (REST/GraphQL APIs vs. custom scraping libraries).
+    * Engineered an automated enrichment layer using the Instructor framework and Pydantic to enforce type-safe extraction from LLMs (OpenAI/Anthropic), mapping unstructured data to a multi-dimensional "Human Experience Taxonomy" for RAG and semantic search.
+    * Developed a configuration-driven OOP framework utilizing advanced design patterns (Factory, Adapters, Singleton) to manage global application state and dynamically instantiate ingestion strategies based on source-specific metadata.
 
-* 2025-2025: Senior Software Engineer, Pricing Analytics
+
+
+* 2025-2025: Senior ML Engineer, Pricing
   * [HP Inc (via Mphasis)](https://www.hp.com/es-es/home.html)
   * Duties included:
     * Collaborated within the Pricing Data Science team of HP Inc (Sant Cugat), with a data science software refactoring project for various markets, aiming at developing a common architecture for feature engineering, modeling, and deployment of price elasticity and causal inference models.
