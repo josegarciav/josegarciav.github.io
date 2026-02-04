@@ -14,18 +14,16 @@ Education
 * M.S. in Mathematical Modeling, Research, Statistics, and Computation, University of the Basque Country
 * M.S. in Applied Mathematics, Santo Domingo Institute of Technology
 * B.S. in International Business & Finance, Utah State University
-* B.E. in Civil Engineering (first year), Santo Domingo Institute of Technology
 
 Work experience
 ======
-<!-- https://www.runpulse.com/#step4 -->
-* 2025-present: Co-Founder, Staff AI Engineer
+
+* 2025-present: Co-founder & Staff AI Engineer
   * Pulsecity
   * Duties include:
     * Architected a modular event intelligence platform that unifies urban signals into a source-agnostic Canonical Event Schema; implemented the Adapter Pattern to abstract diverse ingestion methods (REST/GraphQL APIs vs. custom scraping libraries).
     * Engineered an automated enrichment layer using the Instructor framework and Pydantic to enforce type-safe extraction from LLMs (OpenAI/Anthropic), mapping unstructured data to a multi-dimensional "Human Experience Taxonomy" for RAG and semantic search.
     * Developed a configuration-driven OOP framework utilizing advanced design patterns (Factory, Adapters, Singleton) to manage global application state and dynamically instantiate ingestion strategies based on source-specific metadata.
-
 
 
 * 2025-2025: Senior ML Engineer, Pricing
@@ -36,18 +34,18 @@ Work experience
     * Built counterfactual price model (LightGBM) to simulate competitor brand prices as if they were an HP brand, to use as confounders in a demand elasticity model.
 
 
-* 2024-2025: LLM Engineer
+* 2024-2025: LLM Engineer, Post-training
   * [Invisible Technologies](https://www.invisible.co/)
   * Duties included:
-    * Engineer and curate high-quality datasets to fine-tune large language models (LLMs) for expert-level performance in specialized domains, with emphasis on mathematics, multi-step logical reasoning, and research-intensive tasks.
-    * Developed Chain-of-Thought (CoT) mathematical reasoning prompts to strengthen model abilities in stepwise problem-solving, multi-hop inference, and inductive logic.
-    * Designed adversarial prompts to surface model failure modes in complex tasks, collected source-verified corrections, and built supervised fine-tuning datasets to reduce hallucination rates.
+    * Executed advanced post-training workflows, including Supervised Fine-Tuning (SFT) and Reinforcement Learning from Human Feedback (RLHF), to optimize model reasoning and alignment.
+    * Developed complex evaluation datasets including Chain-of-Thought (CoT) mathematical reasoning prompts and benchmarks to measure model performance in specialized domains, ensuring high-fidelity outputs for frontier LLM providers.
+    * Collaborated on the implementation of reward modeling and preference-based optimization (DPO/PPO) to refine model behavior, safety guardrails, and surface model failure modes in complex tasks.
 
 
 * 2023-2024: Data Scientist, Promotion Optimization (BEES)
   * [AB InBev](https://www.ab-inbev.com/)
   * Duties included:
-    * Collaborated with regional LATAM team on a promotion (pricing) optimization algorithm, improving key metrics like ROI, investment, and coverage across various promotional strategies (combos, stepped, among others).
+    * Collaborated on a promotion (pricing) optimization algorithm, improving key metrics like ROI, investment, and coverage across various promotional strategies (combos, stepped, among others).
       * This involved modeling demand elasticity with a log-log model (XGBoost), optimizing for a chosen metric with cubic splines, rank suggested order arrangements in combos, among other dynamic phases.
     * Optimized ROI by 48% in A/B test promotional experiments in the market of Panama, over a period of 8 months.
     * Developed an algorithm targeting first-time purchasers, optimizing discount allocation and saving on budget.
@@ -81,9 +79,9 @@ Skills
 * SQL
 * Git
 * Spark
-* Data Science & AI Techniques: Propensity score matching (PSM), Double machine learning (DML), Doubly robust machine learning (DRML), A/B/n testing, RCTs, CATE calibration methods, among others.
+* Data Science & AI Techniques: Propensity score matching (PSM), Double machine learning (DML), Doubly robust machine learning (DRML), A/B/n testing, RCTs, CATE calibration methods, RAG, among others.
 * Azure Cloud: Azure Databricks, DL/Hive, Azure Machine Learning Studio, Azure DevOps, Unity Catalog, Lakeflow (data orchestration), Delta Live Tables (DLT), and Azure Synapse Analytics. AWS: Amazon SageMaker, Amazon Redshift, Athena, AWS Glue.
-* Additional Tools: MATLAB, Java, Gurobi, PuLP, Docker, MLflow, Airflow, Pytest, CI/CD.
+* Additional Tools: MATLAB, Java, Gurobi, PuLP, Docker, MLflow, Airflow, Pytest, LangChain, CI/CD.
 
 
 Leadership
