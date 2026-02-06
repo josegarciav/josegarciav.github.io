@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 <!-- ![Beach staring](/images/staring_at_the_beach.jpg){: .align-right width="300px"} -->
-I'm a data professional with over 8 years of experience.
+I'm a data professional with 8+ years of experience.
 
-My areas of expertise include pricing systems, causal inference, A/B testing, and time series forecasting to drive decision-making. Proficient in Python, R, Git, Apache Spark, Cloud, and SQL. I have contributed to projects in AI architecture, demand prediction, elasticity modeling, DLT pipeline development, budget allocation, fraud detection, banking recommender systems, and causal/counterfactual analysis.
+My areas of expertise include pricing systems, causal inference, A/B testing, and time series forecasting to drive decision-making. Proficient in Python, R, Git, Apache Spark, Cloud, and SQL. I have contributed to projects in ML architecture, demand prediction, elasticity modeling, DLT pipeline development, budget allocation, fraud detection, banking recommender systems, and causal/counterfactual analysis.
 
 Connect
 ------

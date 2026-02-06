@@ -47,18 +47,18 @@ Work experience
   * Duties included:
     * Collaborated on a promotion (pricing) optimization algorithm, improving key metrics like ROI, investment, and coverage across various promotional strategies (combos, stepped, among others).
       * This involved modeling demand elasticity with a log-log model (XGBoost), optimizing for a chosen metric with cubic splines, rank suggested order arrangements in combos, among other dynamic phases.
-    * Optimized ROI by 48% in A/B test promotional experiments in the market of Panama, over a period of 8 months.
+    * Optimized ROI by 48% in A/B test promotional experiments, over a period of 8 months.
     * Developed an algorithm targeting first-time purchasers, optimizing discount allocation and saving on budget.
     * Created an RCT module that automated user allocation into control and treatment groups and logged experiment metadata (promotion ID, allocation, blocking factors, timestamps) to a historical registry, reducing experiment design time by ~80%.
-    * Designed and implemented causal inference models (X-Learner, T-Learner, Synthetic DiD, DRLearner) to assess market innovation impacts (ATT, CATE), enabling trend identification at the blocking factor level.
+    * Implemented uplift and causal ML models (X-Learner, DR-Learner, Synthetic DiD) to measure market innovation effectiveness (ATT, CATE).
 
 
 * 2022-2023: Data Scientist, Product Recommendation
   * [Santa Cruz Bank](https://bsc.com.do)
   * Duties included:
-    * Optimized the product recommendation (NBA) feature pipeline from having less than 20 to over 50 variables, into a two-tower modeling (item-user embeddings) approach.
+    * Optimized the product recommendation (NBA) model architecture, enhancing feature engineering and embedding calculations, into a batch, two-tower modeling approach.
     * Enhanced customer segmentation by incorporating digital behavior clustering and psychographic profiling based on commerce data.
-    * Automated weekly client account reporting via a data pipeline job, boosting productivity 3x and eliminating manual data wrangling.
+    * Automated weekly client account reporting via a data pipeline job, boosting productivity 2x and eliminating manual data wrangling.
     * Applied NLP techniques (sentiment analysis, n-grams, entity classification) to extract insights from Salesforce CRM interaction data.
 
 
@@ -66,10 +66,19 @@ Work experience
   * [DGII](https://dgii.gov.do/Paginas/default.aspx)
   * Duties included:
     * Collaborated in developing the analytics & machine learning feedback system to label taxpayers as risky or not risky.
-    * Built models such as linear regression, decision trees, PCA, and clustering.
+    * Built models such as linear regression, decision trees, PCA, logistic regression, MCMC, and clustering.
     * Helped define sector-specific, multidimensional risk metrics spanning income underreporting, cost inflation, shareholder benefit abuse, and transfer pricing anomalies.
     * Mapped shareholding structures with graph theory (NetworkX, Bokeh), leveraging centrality insights to reveal influential entities and hidden transactional links, improving tax evasion case prioritization by 2x.
     * Created the Data Warehouse inventory eCatalog, a Shiny (R) solution mapping all data infrastructure used for risk estimations (metadata, data dictionaries, data lineage). This streamlined the process of identifying data sources by 2x.
+
+
+* 2017-2019: Junior Data Analyst, Tax
+  * [Deloitte](https://www.deloitte.com/)
+  * Duties included:
+    * Supported tax compliance analytics and client engagements through requirements gathering, data modeling, and reporting.
+    * Built workflows to consolidate financial and transactional datasets for audit and tax risk reporting.
+    * Collaborated with cross-functional consulting teams (Finance, Transfer Pricing, Audit, Legal) in financial projects, including M&A and tax risk analyses, to deliver data-driven insights to clients.
+
 
 
 Skills
