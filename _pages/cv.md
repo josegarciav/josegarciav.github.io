@@ -19,7 +19,7 @@ Work experience
 ======
 
 * 2025-present: Co-founder & Staff AI Engineer
-  * Pulsecity
+  * [Pulsecity](https://josegarciav.github.io/event-intelligence-platform/)
   * Duties include:
     * Architected a modular event intelligence platform that unifies urban signals into a source-agnostic Canonical Event Schema; implemented the Adapter Pattern to abstract diverse ingestion methods (REST/GraphQL APIs vs. custom scraping libraries).
     * Engineered an automated enrichment layer using the Instructor framework and Pydantic to enforce type-safe extraction from LLMs (OpenAI/Anthropic), mapping unstructured data to a multi-dimensional "Human Experience Taxonomy" for RAG and semantic search.
