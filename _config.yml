@@ -6,7 +6,7 @@ title                    : "Jose Garcia Ventura"
 title_separator          : "-"
 name                     : &name "Jose Garcia Ventura"
 description              : &description "Personal Portfolio"
-url                      : https://josegarciav.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://josegarciav.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "josegarciav/josegarciav.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -78,7 +78,7 @@ author:
   name             : "Jose Garcia Ventura"
   avatar           : "profile.jpg"
   bio              : "ML Engineer"
-  location         : "Spain"
+  location         : "Earth"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   # googlescholar    : "http://yourfullgooglescholarurl.com"

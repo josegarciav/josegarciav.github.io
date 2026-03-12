@@ -18,15 +18,15 @@ Education
 Work experience
 ======
 
-* 2026-present: Co-founder & Staff AI Engineer
+<!-- * 2026-present: Staff AI Engineer
   * [Pulsecity](https://josegarciav.github.io/event-intelligence-platform/)
   * Key contributions:
     * Designed a 25+ table Postgres schema centered on a Canonical Event Schema, with temporal snapshot tables (pricing, engagement), a hierarchical experience taxonomy (categories → subcategories → activities → emotional outputs), and junction tables for many-to-many mappings across events, artists, tags, and attendance.
     * Engineered an enrichment pipeline where LLM agents (OpenAI, Anthropic, Llama) operate as data workers, reading and writing through a Model Context Protocol (MCP) layer with schema-constrained validation, enum enforcement, confidence scoring, and full audit logging. Four live agents (feature alignment, taxonomy classification, emotion mapping, data quality) run in an ordered chain, with versioned prompts and swappable providers.
-    * Built a configuration-driven ingestion framework that onboards heterogeneous event sources (REST APIs, GraphQL, web scrapers) through a unified adapter interface, with automated deduplication, geo-resolution, and source-level monitoring across 10+ sources.
+    * Built a configuration-driven ingestion framework that onboards heterogeneous event sources (REST APIs, GraphQL, web scrapers) through a unified adapter interface, with automated deduplication, geo-resolution, and source-level monitoring across 10+ sources. -->
 
 
-* 2025-2025: Senior ML Engineer, Pricing
+* 2025-2025: Senior ML/Software Engineer, Pricing
   * [HP Inc (via Mphasis)](https://www.hp.com/es-es/home.html)
   * Key contributions:
     * Collaborated within the Pricing Data Science team of HP Inc (Sant Cugat), with a data science software refactoring project for various markets, aiming at developing a common architecture for feature engineering, modeling, and deployment of price elasticity and causal inference models.
