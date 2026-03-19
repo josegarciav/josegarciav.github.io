@@ -18,13 +18,13 @@ Education
 Work experience
 ======
 
-<!-- * 2026-present: Staff AI Engineer
-  * [Pulsecity](https://josegarciav.github.io/event-intelligence-platform/)
+* 2026-present: Senior AI Engineer
+  * [Pulsecity](https://pulsecity.io/)
   * Key contributions:
-    * Designed a 25+ table Postgres schema centered on a Canonical Event Schema, with temporal snapshot tables (pricing, engagement), a hierarchical experience taxonomy (categories → subcategories → activities → emotional outputs), and junction tables for many-to-many mappings across events, artists, tags, and attendance.
-    * Engineered an enrichment pipeline where LLM agents (OpenAI, Anthropic, Llama) operate as data workers, reading and writing through a Model Context Protocol (MCP) layer with schema-constrained validation, enum enforcement, confidence scoring, and full audit logging. Four live agents (feature alignment, taxonomy classification, emotion mapping, data quality) run in an ordered chain, with versioned prompts and swappable providers.
-    * Built a configuration-driven ingestion framework that onboards heterogeneous event sources (REST APIs, GraphQL, web scrapers) through a unified adapter interface, with automated deduplication, geo-resolution, and source-level monitoring across 10+ sources. -->
-
+    * Designed the architecture of an AI event intelligence platform on Python and FastAPI — async ingestion workers, a Postgres-backed canonical event schema, and a service boundary that downstream products read from.
+    * Built an LLM enrichment pipeline where swappable agents (OpenAI, Anthropic, Llama) enrich raw events through a Model Context Protocol layer with schema validation and confidence scoring, so the stack can follow model progress without a rewrite.
+    * Shipped a configuration-driven ingestion framework that onboards any event source — REST, GraphQL, or scraper — under one adapter contract, with deduplication and geo-resolution built in.
+    * Wired observability into every stage (structured logs, per-agent audit trails, quality scoring) so data drift and enrichment regressions are measurable and surface before they reach users.
 
 * 2025-2025: Senior ML/Software Engineer, Pricing
   * [HP Inc (via Mphasis)](https://www.hp.com/es-es/home.html)
