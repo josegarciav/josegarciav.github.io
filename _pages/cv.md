@@ -42,7 +42,7 @@ Work experience
     * Collaborated on the implementation of reward modeling and preference-based optimization (DPO/PPO) to refine model behavior, safety guardrails, and surface model failure modes in complex tasks.
 
 
-* 2023-2024: Data Scientist, Promotion Optimization (BEES)
+* 2023-2025: Data Scientist, Promotion Optimization (BEES)
   * [AB InBev](https://www.ab-inbev.com/)
   * Key contributions:
     * Collaborated on a promotion (pricing) optimization algorithm, improving key metrics like ROI, investment, and coverage across various promotional strategies (combos, stepped, among others).
